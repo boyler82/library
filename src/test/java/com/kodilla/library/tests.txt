@@ -1,0 +1,8 @@
+Testy jednostkowe (Mockito)
+BookCopyService, BorrowingService, BorrowingRepository, BookCopyRepository
+
+Testy integracyjne (SpringBootTest)
+BookCopyController, BorrowingController
+
+Opcjonalnie (Mockito)
+BookCopyMapper, BorrowingMapper
